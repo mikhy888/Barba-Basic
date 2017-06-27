@@ -12,7 +12,7 @@
         </ul>
       </section>
       </main>  
-      
+<!--      edited  -->
 
    <?php include("includes/footer.php"); ?>
 
