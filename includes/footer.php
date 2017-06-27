@@ -9,8 +9,7 @@
 
 <script src="https://rawgit.com/luruke/barba.js/master/dist/barba.min.js" type="text/javascript"></script>
 <script src="js/transition.js"></script>
-<script src="js/transition-init.js"></script>
-<script src="js/main.js" type="text/javascript"></script>
+<script src="js/main.js"></script>
   
  </body>
 </html>
