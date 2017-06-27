@@ -7,17 +7,8 @@ function barba_main () {
 
 
 
-function tweenmax_main(){
-	console.log("te");
-}
-
-
 
 barba_main();
-//tweenmax_main();
-
-
-
 
 
 
